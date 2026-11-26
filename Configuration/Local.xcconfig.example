@@ -1,0 +1,4 @@
+// Copy to Local.xcconfig. The slash escape prevents xcconfig treating // as a comment.
+SUPABASE_URL = https:/$()/YOUR_PROJECT.supabase.co
+SUPABASE_PUBLISHABLE_KEY = YOUR_PUBLISHABLE_KEY
+// Use only the publishable (or legacy anon) key. Never a secret/service_role key.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>SUPABASE_URL</key><string>$(SUPABASE_URL)</string>
+<key>SUPABASE_PUBLISHABLE_KEY</key><string>$(SUPABASE_PUBLISHABLE_KEY)</string>
+<key>NSCalendarsFullAccessUsageDescription</key><string>Household shows your chosen shared calendar and lets you add family events.</string>
+</dict></plist>

@@ -1,0 +1,4 @@
+// Local.xcconfig is ignored by git. It contains public client configuration only.
+SUPABASE_URL =
+SUPABASE_PUBLISHABLE_KEY =
+#include? "Local.xcconfig"
